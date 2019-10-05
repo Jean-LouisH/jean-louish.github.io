@@ -1,6 +1,6 @@
 # Jean-LouisH.github.io
 
-![title](Images/Test.txt)
+This is a quick showcase of my top personal, coding projects on GitHub. You can click the project titles in this list to see additional information.
 
 You can also find my [GitHub Profile here](https://github.com/Jean-LouisH) and the rest of my [Project Repositories here](https://github.com/Jean-LouisH?tab=repositories).
 
@@ -18,6 +18,14 @@ My learning objectives include; scene architecture & management; file parsing & 
 
 Libretti is a core synthesizer library for integration with applications and games. It can compile audio data from text files that are written with [Libretti's scripting language](https://github.com/Jean-LouisH/Libretti/blob/master/Documentation/Scripting%20Language%20Specification.txt).
 
+## [Suprannua Engine](https://github.com/Jean-LouisH/guiSyrup/blob/master/README.md)
+
+![Screenshot](https://github.com/Jean-LouisH/SuprannuaEngine/blob/master/Documentation/Images/SuprannuaEngine.png)
+
+Suprannua Engine is a superannuated, 2D platformer game engine codebase. It was my first extensive project I've ever undertaken independently - when I was a freshman at university. It was also my first time using third party software libraries. At that time I only had a very basic understanding of C and programming in general, so I used it improve my skills. 
+
+This repository is abandoned, discontinued and archived. It is limited in functionality, ease of use and scalability. All code is run procedurally and designed back then with my limited knowledge of data structures, [event systems](https://github.com/Jean-LouisH/SuprannuaEngine/blob/master/SuprannuaEngine/Events.c), memory allocation and so on.
+
 ## [ElecCirSim](https://github.com/Jean-LouisH/ElecCirSim/blob/master/README.md)
 
 ElecCirSim is a real-time analogue and digital [circuit simulator](https://en.wikipedia.org/wiki/Electronic_circuit_simulation). 
@@ -25,9 +33,3 @@ ElecCirSim is a real-time analogue and digital [circuit simulator](https://en.wi
 ## [guiSyrup](https://github.com/Jean-LouisH/guiSyrup/blob/master/README.md)
 
 guiSyrup is a graphical user interface library, accelerated by [OpenGL 3.3](https://www.khronos.org/registry/OpenGL/specs/gl/glspec33.core.pdf). 
-
-## [Suprannua Engine](https://github.com/Jean-LouisH/guiSyrup/blob/master/README.md)
-
-Suprannua Engine is a superannuated, 2D platformer game engine codebase. It was my first extensive project I've ever undertaken independently - when I was a freshman at university. It was also my first time using third party software libraries. At that time I only had a very basic understanding of C and programming in general, so I used it improve my skills. 
-
-This repository is abandoned, discontinued and archived. It is limited in functionality, ease of use and scalability. All code is run procedurally and designed back then with my limited knowledge of data structures, [event systems](https://github.com/Jean-LouisH/SuprannuaEngine/blob/master/SuprannuaEngine/Events.c), memory allocation and so on.
