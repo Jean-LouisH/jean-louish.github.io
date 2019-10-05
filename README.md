@@ -1,6 +1,6 @@
 # Jean-LouisH.github.io
 
-[title](New Text Document.txt)
+[title](Images/Test.txt)
 
 You can also find my [GitHub Profile here](https://github.com/Jean-LouisH) and the rest of my [Project Repositories here](https://github.com/Jean-LouisH?tab=repositories).
 
