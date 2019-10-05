@@ -18,11 +18,11 @@ My learning objectives include; scene architecture & management; file parsing & 
 
 Libretti is a core synthesizer library for integration with applications and games. It can compile audio data from text files that are written with [Libretti's scripting language](https://github.com/Jean-LouisH/Libretti/blob/master/Documentation/Scripting%20Language%20Specification.txt).
 
-## [Suprannua Engine](https://github.com/Jean-LouisH/guiSyrup/blob/master/README.md)
+## [Suprannua Engine](https://github.com/Jean-LouisH/SuprannuaEngine/blob/master/README.md)
 
 ![Screenshot](https://github.com/Jean-LouisH/SuprannuaEngine/blob/master/Documentation/Images/SuprannuaEngine.png)
 
-Suprannua Engine is a superannuated, 2D platformer game engine codebase. It was my first extensive project I've ever undertaken independently - when I was a freshman at university. It was also my first time using third party software libraries. At that time I only had a very basic understanding of C and programming in general, so I used it improve my skills. 
+Suprannua Engine is a superannuated, 2D platformer game engine codebase. It was my first extensive project I've ever undertaken independently - when I was a freshman at university. It was also my first time using third party software libraries. At that time I only knew C and I had a very basic understanding of programming in general, so I used it improve my skills. 
 
 This repository is abandoned, discontinued and archived. It is limited in functionality, ease of use and scalability. All code is run procedurally and designed back then with my limited knowledge of data structures, [event systems](https://github.com/Jean-LouisH/SuprannuaEngine/blob/master/SuprannuaEngine/Events.c), memory allocation and so on.
 
