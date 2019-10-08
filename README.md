@@ -24,6 +24,8 @@ Libretti is a core synthesizer library for integration with applications and gam
 
 Suprannua Engine is a superannuated, 2D platformer game engine codebase. It was my first extensive project I've ever undertaken independently - when I was a freshman at university. It was also my first time using third party software libraries. At that time I only knew C and I had a very basic understanding of programming in general, so I used it improve my skills. 
 
+You can [download all the games and tests I've made with Suprannua Engine here](https://github.com/Jean-LouisH/SuprannuaEngine/releases/download/v0.14.0-alpha/Suprannua.0.14.0.Games.Tests.zip). All movement is done through WASD keys where not specified. 
+
 This repository is abandoned, discontinued and archived. It is limited in functionality, ease of use and scalability. All code is run procedurally and designed back then with my limited knowledge of data structures, [event systems](https://github.com/Jean-LouisH/SuprannuaEngine/blob/master/SuprannuaEngine/Events.c), memory allocation and so on.
 
 ## [ElecCirSim](https://github.com/Jean-LouisH/ElecCirSim/blob/master/README.md)
