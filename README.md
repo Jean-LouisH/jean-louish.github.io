@@ -8,15 +8,29 @@ You can also find my [GitHub Profile here](https://github.com/Jean-LouisH) and t
 
 ![Screenshot](https://github.com/Jean-LouisH/Lania/blob/master/Documentation/Images/sprite_test.png)
 
-Lania is a 2D/3D engine for real-time simulations and games. It is being developed as a personal exercise in applying my learning outcomes from university and reading. I also intend to use it as a testbed for small real-time simulations, scientific visualizations, artificial intelligence algorithms and games.
+[Lania](https://github.com/Jean-LouisH/Lania) is **a 2D/3D engine for real-time simulations and games**. 
 
-My learning objectives include; scene architecture & management; file parsing & formatting; cache locality optimizations; multithreading; data structures; profiling; physics & collision algorithms; audio programming; rendering; and APIs such as Simple DirectMedia Layer (SDL), PortAudio, OpenGL and Vulkan.
+It is being developed as a personal exercise in applying my learning outcomes from university and reading. I also intend to use it as a testbed for small real-time simulations, scientific visualizations, artificial intelligence algorithms and games.
+
+For the sake of learning, select portions of the engine will be made from my own code rather than existing solutions. My learning objectives include; 
+* [Scene Architecture & Management](https://en.wikipedia.org/wiki/Scene_graph); 
+* [Cache Locality](https://en.wikipedia.org/wiki/Locality_of_reference) Optimizations;
+* [Multithreading](https://en.wikipedia.org/wiki/Thread_(computing)#Multithreading); 
+* [Profiling](https://en.wikipedia.org/wiki/Profiling_(computer_programming)); 
+* [Physics, Collision Detection & Response](https://en.wikipedia.org/wiki/Collision_detection); 
+* [Audio Programming](https://en.wikipedia.org/wiki/Game_engine#Audio_engine); 
+* [Real-Time Rendering](https://en.wikipedia.org/wiki/Real-time_computer_graphics); 
+* APIs such as [Simple DirectMedia Layer (SDL)](https://www.libsdl.org/), [PortAudio](http://www.portaudio.com/), [OpenGL](https://www.khronos.org/registry/OpenGL/specs/gl/glspec33.core.pdf) and [Vulkan](https://www.khronos.org/registry/vulkan/specs/1.1-extensions/html/vkspec.html).
+
+among others.
 
 ## [Libretti](https://github.com/Jean-LouisH/Libretti/blob/master/README.md)
 
 ![Screenshot](https://github.com/Jean-LouisH/Libretti/blob/master/screenshot.png)
 
-Libretti is a core synthesizer library for integration with applications and games. It can compile audio data from text files that are written with [Libretti's scripting language](https://github.com/Jean-LouisH/Libretti/blob/master/Documentation/Scripting%20Language%20Specification.txt).
+[Libretti](https://github.com/Jean-LouisH/Libretti) is **a synthesizer library for integration with applications and games**.
+
+It can compile audio data from text files that are written with [Libretti's scripting language](https://github.com/Jean-LouisH/Libretti/blob/master/Documentation/Scripting%20Language%20Specification.txt)
 
 ## [Suprannua Engine](https://github.com/Jean-LouisH/SuprannuaEngine/blob/master/README.md)
 
