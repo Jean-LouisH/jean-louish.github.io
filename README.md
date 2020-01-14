@@ -1,14 +1,14 @@
-# Jean-LouisH.github.io
-
 This is a quick showcase of my top personal, coding projects on GitHub. You can click the project titles in this list to see additional information.
 
 You can also find my [GitHub Profile here](https://github.com/Jean-LouisH) and the rest of my [Project Repositories here](https://github.com/Jean-LouisH?tab=repositories).
 
+# Applications and Libraries
+
 ## [Lania](https://github.com/Jean-LouisH/Lania/blob/master/README.md)
 
-![Screenshot](https://github.com/Jean-LouisH/Lania/blob/master/Documentation/Images/sprite_test.png)
+![Screenshot](https://github.com/Jean-LouisH/Lania/blob/master/Documentation/Images/Screenshot.gif)
 
-[Lania](https://github.com/Jean-LouisH/Lania) is **a 2D/3D engine for real-time simulations and games**. 
+[Lania](https://github.com/Jean-LouisH/Lania) is **a hobbyist and experimental 2D/3D engine for real-time simulations and games**. 
 
 It is being developed as a personal exercise in applying my learning outcomes from university and reading. I also intend to use it as a testbed for small real-time simulations, scientific visualizations, artificial intelligence algorithms and games.
 
@@ -26,7 +26,7 @@ among others.
 
 ## [Libretti](https://github.com/Jean-LouisH/Libretti/blob/master/README.md)
 
-![Screenshot](https://github.com/Jean-LouisH/Libretti/blob/master/screenshot.png)
+![Screenshot](https://github.com/Jean-LouisH/Libretti/blob/master/Screenshot.gif)
 
 [Libretti](https://github.com/Jean-LouisH/Libretti) is **a synthesizer library for integration with applications and games**.
 
@@ -34,7 +34,7 @@ It can compile audio data from text files that are written with [Libretti's scri
 
 ## [Suprannua Engine](https://github.com/Jean-LouisH/SuprannuaEngine/blob/master/README.md)
 
-![Screenshot](https://github.com/Jean-LouisH/SuprannuaEngine/blob/master/Documentation/Images/SuprannuaEngine.png)
+![Screenshot](https://github.com/Jean-LouisH/SuprannuaEngine/blob/master/Documentation/Images/Screenshot.gif)
 
 Suprannua Engine is a superannuated, 2D platformer game engine codebase. It was my first extensive project I've ever undertaken independently - when I was a freshman at university. It was also my first time using third party software libraries. At that time I only knew C and I had a very basic understanding of programming in general, so I used it improve my skills. 
 
@@ -48,4 +48,18 @@ ElecCirSim is a real-time analogue and digital [circuit simulator](https://en.wi
 
 ## [guiSyrup](https://github.com/Jean-LouisH/guiSyrup/blob/master/README.md)
 
-guiSyrup is a graphical user interface library, accelerated by [OpenGL 3.3](https://www.khronos.org/registry/OpenGL/specs/gl/glspec33.core.pdf). 
+guiSyrup is a C++ graphical user interface library, accelerated by [OpenGL 3.3](https://www.khronos.org/registry/OpenGL/specs/gl/glspec33.core.pdf). 
+
+# Models, Trials and Experiments
+
+## EM Raytracing Model
+
+## Memristor Digital Memory Model
+
+## Perceptron Model
+
+## Genetic Algorithm Model
+
+## Logical Resolution Algorithm Model
+
+## Turing Machine Model
