@@ -52,14 +52,14 @@ guiSyrup is a C++ graphical user interface library, accelerated by [OpenGL 3.3](
 
 # Models, Trials and Experiments
 
-## EM Raytracing Model
+## [EM Raytracing Model](https://github.com/Jean-LouisH/EMRayTracingModel/blob/master/README.md) 
 
-## Memristor Digital Memory Model
+Python Ray Tracer for Electromagnetic Radiation (3 μm - 300 nm) Interaction with Objects of Differing Characteristics.
 
-## Perceptron Model
+## [Memristor ReRAM Model](https://github.com/Jean-LouisH/MemristorReRAMModel/blob/master/README.md)
 
-## Genetic Algorithm Model
+Python Simulation Model of a Memristor used as a Single Bit Storage in ReRAM.
 
-## Logical Resolution Algorithm Model
+## [Perceptron Model](https://github.com/Jean-LouisH/PerceptronModel/blob/master/README.md)
 
-## Turing Machine Model
+Python Model of a Perceptron's Behaviour in Binary Classification via Supervised Learning.
