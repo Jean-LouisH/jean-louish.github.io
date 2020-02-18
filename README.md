@@ -42,6 +42,14 @@ You can [download all the games and tests I've made with Suprannua Engine here](
 
 This repository is abandoned, discontinued and archived. It is limited in functionality, ease of use and scalability. All code is run procedurally and designed back then with my limited knowledge of data structures, [event systems](https://github.com/Jean-LouisH/SuprannuaEngine/blob/master/SuprannuaEngine/Events.c), memory allocation and so on.
 
+## [Lilliputian](https://github.com/Jean-LouisH/Lilliputian/blob/master/README.md)
+
+[Lilliputian](https://github.com/Jean-LouisH/Lilliputian) is **a tiny 2D game engine library** in which a complete engine link library is provided for the user to create small 2D games. This is achieved by updating game scene trees with a `Lilliputian::Editor` object and writing C++ game scripts with a `Lilliputian::ScriptingAPI` object. 
+
+It is being developed to replace the archived and unstable [Suprannua Engine](https://github.com/Jean-LouisH/SuprannuaEngine/blob/master/README.md) framework without being as large and aimless as the experimental [Lania](https://github.com/Jean-LouisH/Lania/blob/master/README.md) application. To achieve this, it will reuse code from my [SDL Sub-Engines](https://github.com/Jean-LouisH/SDLSubEngines), [Libretti](https://github.com/Jean-LouisH/Libretti/blob/master/README.md) and [Lania](https://github.com/Jean-LouisH/Lania/blob/master/README.md) repositories. 
+
+This also started as a practical scenario to learn how to use [CMake](https://cmake.org/) through CMakeLists and to use unit testing frameworks like Google Test.
+
 ## [ElecCirSim](https://github.com/Jean-LouisH/ElecCirSim/blob/master/README.md)
 
 ElecCirSim is a real-time analogue and digital [circuit simulator](https://en.wikipedia.org/wiki/Electronic_circuit_simulation). 
