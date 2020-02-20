@@ -1,6 +1,8 @@
+## Jean-Louis Haywood (jean-louish.github.io)
+
 This is a quick showcase of my top personal, coding projects on GitHub. You can click the project titles in this list to see additional information.
 
-You can also find my [GitHub Profile here](https://github.com/Jean-LouisH) and the rest of my [Project Repositories here](https://github.com/Jean-LouisH?tab=repositories).
+You can also find my [GitHub Profile here](https://github.com/Jean-LouisH) and the rest of my [Project Repositories here](https://github.com/Jean-LouisH?tab=repositories). 
 
 # Applications and Libraries
 
