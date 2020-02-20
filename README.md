@@ -8,7 +8,7 @@ You can also find my [GitHub Profile here](https://github.com/Jean-LouisH) and t
 
 ## [Lania](https://github.com/Jean-LouisH/Lania/blob/master/README.md)
 
-![Screenshot](https://github.com/Jean-LouisH/Lania/blob/master/Documentation/Images/Screenshot.gif)
+![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/Lania/master/Documentation/Images/Screenshot.gif)
 
 [Lania](https://github.com/Jean-LouisH/Lania) is **a hobbyist and experimental 2D/3D engine for real-time simulations and games**. 
 
@@ -28,7 +28,7 @@ among others.
 
 ## [Libretti](https://github.com/Jean-LouisH/Libretti/blob/master/README.md)
 
-![Screenshot](https://github.com/Jean-LouisH/Libretti/blob/master/Screenshot.gif)
+![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/Libretti/master/Screenshot.gif)
 
 [Libretti](https://github.com/Jean-LouisH/Libretti) is **a synthesizer library for integration with applications and games**.
 
@@ -36,7 +36,7 @@ It can compile audio data from text files that are written with [Libretti's scri
 
 ## [Suprannua Engine](https://github.com/Jean-LouisH/SuprannuaEngine/blob/master/README.md)
 
-![Screenshot](https://github.com/Jean-LouisH/SuprannuaEngine/blob/master/Documentation/Images/Screenshot.gif)
+![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/SuprannuaEngine/master/Documentation/Images/Screenshot.gif)
 
 Suprannua Engine is a superannuated, 2D platformer game engine codebase. It was my first extensive project I've ever undertaken independently - when I was a freshman at university. It was also my first time using third party software libraries. At that time I only knew C and I had a very basic understanding of programming in general, so I used it improve my skills. 
 
