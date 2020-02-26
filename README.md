@@ -73,3 +73,17 @@ Python Simulation Model of a Memristor used as a Single Bit Storage in ReRAM.
 ## [Perceptron Model](https://github.com/Jean-LouisH/PerceptronModel/blob/master/README.md)
 
 Python Model of a Perceptron's Behaviour in Binary Classification via Supervised Learning.
+
+# Personal Training and Exercises
+
+## [OpenGL Training](https://github.com/Jean-LouisH/OpenGL_Training)
+
+![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/OpenGL_Training/master/Images/Mixed_Texture_Rectangle.png)
+
+My personal training in OpenGL 3.3 and GL Shading Language 330. 
+
+Follows through the tutorials of [Learn OpenGL](https://learnopengl.com/Introduction) by Joey de Vries. It also references the [OpenGL 3.3 Core API Specifications](https://www.khronos.org/registry/OpenGL/specs/gl/glspec33.core.pdf), [GLSL 330 Specifications](https://www.khronos.org/registry/OpenGL/specs/gl/GLSLangSpec.3.30.pdf) and [Khronos' OpenGL wiki](https://www.khronos.org/opengl/wiki/) with [GLSL](https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language). Unlike the linked tutorial, the underlying abstraction layer is Simple DirectMedia Layer 2 (SDL2) instead of GLFW, the image library is SDL2 Image instead of STB Image and the OpenGL loading library is GLEW instead of GLAD. A simple console menu is used to select the projects associated with each tutorial as a central hub.
+
+## [Image Processing Algorithms](https://github.com/Jean-LouisH/ImageProcessingAlgorithms)
+
+Personal Exercise in Implementing and Studying Image Algorithms using Python with Pillow
