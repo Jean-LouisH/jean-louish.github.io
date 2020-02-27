@@ -76,6 +76,8 @@ Python Model of a Perceptron's Behaviour in Binary Classification via Supervised
 
 # Personal Training and Exercises
 
+## [LeetCode](https://github.com/Jean-LouisH/LeetCode)
+
 ## [Algorithms, Data Structures](https://github.com/Jean-LouisH/Algorithms-DataStructures)
 
 Personal Exercise in Implementing and Studying Algorithms taught in the "CLRS" Introduction to Algorithms Book, using Python. 
