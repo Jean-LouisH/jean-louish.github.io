@@ -28,7 +28,11 @@ ElecCirSim is a real-time analogue and digital [circuit simulator](https://en.wi
 
 ## [guiSyrup](https://github.com/Jean-LouisH/guiSyrup/blob/master/README.md)
 
-guiSyrup is a C++ graphical user interface library, accelerated by [OpenGL 3.3](https://www.khronos.org/registry/OpenGL/specs/gl/glspec33.core.pdf). 
+guiSyrup is a C++ graphical user interface library, accelerated by [OpenGL 3.3](https://www.khronos.org/registry/OpenGL/specs/gl/glspec33.core.pdf).
+
+## [EfficientC](https://github.com/Jean-LouisH/EfficientC/blob/master/README.md)
+
+**EfficientC** is a set of low-level libraries for developing in C.
 
 # For Fun
 
@@ -61,6 +65,10 @@ Suprannua Engine is a superannuated, 2D platformer game engine codebase. It was 
 You can [download all the games and tests I've made with Suprannua Engine here](https://github.com/Jean-LouisH/SuprannuaEngine/releases/download/v0.14.0-alpha/Suprannua.0.14.0.Games.Tests.zip). All movement is done through WASD keys where not specified. 
 
 This repository is abandoned, discontinued and archived. It is limited in functionality, ease of use and scalability. All code is run procedurally and designed back then with my limited knowledge of data structures, [event systems](https://github.com/Jean-LouisH/SuprannuaEngine/blob/master/SuprannuaEngine/Events.c), memory allocation and so on.
+
+## [Imperium](https://github.com/Jean-LouisH/Imperium)
+
+**Imperium** is a general purpose imperative programming language being developed to apply my learning outcomes from programming language theory and compiler design. It is biased towards compiled, high-performance applications which may use cache optimizations, inlining, multithreading, and GPGPU. But it is meant to be as syntactically simple as possible.
 
 ## [EM Raytracing Model](https://github.com/Jean-LouisH/EMRayTracingModel/blob/master/README.md) 
 
