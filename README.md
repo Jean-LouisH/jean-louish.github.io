@@ -84,3 +84,7 @@ Personal Exercise in Implementing and Studying Image Algorithms using Python wit
 ![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/OpenGL_Training/master/Images/Mixed_Texture_Rectangle.png)
 
 My Personal Training in OpenGL 3.3 and GL Shading Language 330. Follows through the Tutorials of [Learn OpenGL](https://learnopengl.com/Introduction) by Joey de Vries.
+
+## [Reading List](https://github.com/Jean-LouisH/Reading-List/blob/master/README.md)
+
+A List of Books I've Deeply Immersed myself in through Reading, Exercises and Practical Use. 
