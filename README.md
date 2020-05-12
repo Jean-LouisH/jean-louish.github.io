@@ -10,7 +10,7 @@ You can also find my [GitHub Profile here](https://github.com/Jean-LouisH) and t
 
 ![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/Libretti/master/Screenshot.gif)
 
-A Synthesizer Library and Format for Applications and Games.
+A Music Synthesis Library, Embeddable in Applications.
 
 ## [Lilliputian](https://github.com/Jean-LouisH/Lilliputian/blob/master/README.md)
 
@@ -22,7 +22,7 @@ A Real-Time Analogue and Digital [Circuit Simulator](https://en.wikipedia.org/wi
 
 ## [guiSyrup](https://github.com/Jean-LouisH/guiSyrup/blob/master/README.md)
 
-A C++ Graphical User Interface Library, Accelerated by [OpenGL 3.3](https://www.khronos.org/registry/OpenGL/specs/gl/glspec33.core.pdf).
+A GUI Library, Accelerated by [OpenGL 3.3](https://www.khronos.org/registry/OpenGL/specs/gl/glspec33.core.pdf).
 
 ## [SDL Sub-Engines](https://github.com/Jean-LouisH/SDLSubEngines)
 
