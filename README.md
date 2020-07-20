@@ -1,10 +1,16 @@
 ## Jean-Louis Haywood (jean-louish.github.io)
 
-This is a quick showcase of my top personal, coding projects on GitHub. You can click the project titles in this list to see additional information.
+This is a quick showcase of my presentable coding projects on GitHub. You can click the project titles in this list to see additional information.
 
 You can also find my [GitHub Profile here](https://github.com/Jean-LouisH) and the rest of my [Project Repositories here](https://github.com/Jean-LouisH?tab=repositories). 
 
-# For Use
+# For Use (Applications)
+
+## [ElecCirSim](https://github.com/Jean-LouisH/ElecCirSim/blob/master/README.md)
+
+A Real-Time Analogue and Digital [Circuit Simulator](https://en.wikipedia.org/wiki/Electronic_circuit_simulation). 
+
+# For Use (Libraries and Code)
 
 ## [Libretti](https://github.com/Jean-LouisH/Libretti/blob/master/README.md)
 
@@ -15,10 +21,6 @@ A Music Synthesis Library, Embeddable in Applications.
 ## [Lilliputian](https://github.com/Jean-LouisH/Lilliputian/blob/master/README.md)
 
 A Tiny 2D Game Engine Library.
-
-## [ElecCirSim](https://github.com/Jean-LouisH/ElecCirSim/blob/master/README.md)
-
-A Real-Time Analogue and Digital [Circuit Simulator](https://en.wikipedia.org/wiki/Electronic_circuit_simulation). 
 
 ## [guiSyrup](https://github.com/Jean-LouisH/guiSyrup/blob/master/README.md)
 
@@ -42,7 +44,7 @@ A Collection of C# Scripts Derived from my Game Projects' Prototype Scenes.
 
 ![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/Lania/master/Documentation/Images/Screenshot.gif)
 
-My Hobbyist 2D/3D Engine for Real-Time Simulations and Games.
+My Hobbyist 2D/3D Game Engine.
 
 ## [Suprannua Engine](https://github.com/Jean-LouisH/SuprannuaEngine/blob/master/README.md)
 
