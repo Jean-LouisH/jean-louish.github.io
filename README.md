@@ -1,4 +1,4 @@
-## Jean-Louis Haywood (jean-louish.github.io)
+ ## Jean-Louis Haywood (jean-louish.github.io)
 
 This is a quick showcase of my presentable coding projects on GitHub. You can click the project titles in this list to see additional information.
 
@@ -22,10 +22,6 @@ A Music Synthesis Library, Embeddable in Applications.
 
 A Tiny 2D Game Engine Library.
 
-## [guiSyrup](https://github.com/Jean-LouisH/guiSyrup/blob/master/README.md)
-
-A GUI Library, Accelerated by [OpenGL 3.3](https://www.khronos.org/registry/OpenGL/specs/gl/glspec33.core.pdf).
-
 ## [SDL Sub-Engines](https://github.com/Jean-LouisH/SDLSubEngines)
 
 A Collection of Reusable SDL Code and Data Structures for 2D Rendering and Audio. 
@@ -37,6 +33,10 @@ A Set of Low-level Libraries for Developing in C.
 ## [Reusable Unity Scripts](https://github.com/Jean-LouisH/ReusableUnityScripts/blob/master/README.md)
 
 A Collection of C# Scripts Derived from my Game Projects' Prototype Scenes.
+
+## [Reusable Unity Scripts](https://github.com/Jean-LouisH/ReusableGodotScripts/blob/master/README.md)
+
+A Dump of GDScript Scripts Used in the Prototyping Stages of My Godot Game Projects.
 
 # For Fun
 
@@ -57,19 +57,7 @@ You can [Download all the Games and Tests I've Made with Suprannua Engine Here](
 
 My Hobbyist General Purpose Imperative Programming Language with a Bias towards Compiled, High-Performance Applications.
 
-## [EM Raytracing Model](https://github.com/Jean-LouisH/EMRayTracingModel/blob/master/README.md) 
-
-A Python Ray Tracer for Electromagnetic Radiation (3 μm - 300 nm) Interaction with Objects of Differing Characteristics.
-
-## [Memristor ReRAM Model](https://github.com/Jean-LouisH/MemristorReRAMModel/blob/master/README.md)
-
-A Python Simulation Model of a Memristor used as a Single Bit Storage in ReRAM.
-
-## [Perceptron Model](https://github.com/Jean-LouisH/PerceptronModel/blob/master/README.md)
-
-A Python Model of a Perceptron's Behaviour in Binary Classification via Supervised Learning.
-
-# For Training
+# For Learning
 
 ## [LeetCode](https://github.com/Jean-LouisH/LeetCode)
 
@@ -86,6 +74,18 @@ Personal Exercise in Implementing and Studying Image Algorithms using Python wit
 ![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/OpenGL_Training/master/Images/Mixed_Texture_Rectangle.png)
 
 My Personal Training in OpenGL 3.3 and GL Shading Language 330. Follows through the Tutorials of [Learn OpenGL](https://learnopengl.com/Introduction) by Joey de Vries.
+
+## [EM Raytracing Model](https://github.com/Jean-LouisH/EMRayTracingModel/blob/master/README.md) 
+
+A Python Ray Tracer for Electromagnetic Radiation (3 μm - 300 nm) Interaction with Objects of Differing Characteristics.
+
+## [Memristor ReRAM Model](https://github.com/Jean-LouisH/MemristorReRAMModel/blob/master/README.md)
+
+A Python Simulation Model of a Memristor used as a Single Bit Storage in ReRAM.
+
+## [Perceptron Model](https://github.com/Jean-LouisH/PerceptronModel/blob/master/README.md)
+
+A Python Model of a Perceptron's Behaviour in Binary Classification via Supervised Learning.
 
 ## [Reading List](https://github.com/Jean-LouisH/Reading-List/blob/master/README.md)
 
