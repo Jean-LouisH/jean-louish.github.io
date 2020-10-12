@@ -34,7 +34,7 @@ A Set of Low-level Libraries for Developing in C.
 
 A Collection of C# Scripts Derived from my Game Projects' Prototype Scenes.
 
-## [Reusable Unity Scripts](https://github.com/Jean-LouisH/ReusableGodotScripts/blob/master/README.md)
+## [Reusable Godot Engine Scripts](https://github.com/Jean-LouisH/ReusableGodotScripts/blob/master/README.md)
 
 A Dump of GDScript Scripts Used in the Prototyping Stages of My Godot Game Projects.
 
