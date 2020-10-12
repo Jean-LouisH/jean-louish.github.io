@@ -57,7 +57,7 @@ You can [Download all the Games and Tests I've Made with Suprannua Engine Here](
 
 My Hobbyist General Purpose Imperative Programming Language with a Bias towards Compiled, High-Performance Applications.
 
-# For Learning
+# For My Learning
 
 ## [LeetCode](https://github.com/Jean-LouisH/LeetCode)
 
