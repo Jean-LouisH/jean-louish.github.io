@@ -10,7 +10,7 @@ You can also find my [GitHub Profile here](https://github.com/Jean-LouisH) and t
 
 A Real-Time Analogue and Digital [Circuit Simulator](https://en.wikipedia.org/wiki/Electronic_circuit_simulation). 
 
-# For Use (Libraries and Code)
+# For Use (Libraries, Frameworks and Code)
 
 ## [Libretti](https://github.com/Jean-LouisH/Libretti/blob/master/README.md)
 
