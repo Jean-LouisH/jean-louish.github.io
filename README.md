@@ -38,14 +38,6 @@ A Tiny 2D Game Engine Library.
 
 A Set of Low-level Libraries for Developing in C.
 
-## [Reusable Unity Scripts](https://github.com/Jean-LouisH/ReusableUnityScripts/blob/master/README.md)
-
-A Collection of C# Scripts Derived from my Game Projects' Prototype Scenes.
-
-## [Reusable Godot Engine Scripts](https://github.com/Jean-LouisH/ReusableGodotScripts/blob/master/README.md)
-
-A Dump of GDScript Scripts Used in the Prototyping Stages of My Godot Game Projects.
-
 # For Fun
 
 ## [Lania](https://github.com/Jean-LouisH/Lania/blob/master/README.md)
