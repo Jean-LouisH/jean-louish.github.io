@@ -34,10 +34,6 @@ A Music Synthesis Library, Embeddable in Applications.
 
 A Tiny 2D Game Engine Library.
 
-## [SDL Sub-Engines](https://github.com/Jean-LouisH/SDLSubEngines)
-
-A Collection of Reusable SDL Code and Data Structures for 2D Rendering and Audio. 
-
 ## [EfficientC](https://github.com/Jean-LouisH/EfficientC/blob/master/README.md)
 
 A Set of Low-level Libraries for Developing in C.
