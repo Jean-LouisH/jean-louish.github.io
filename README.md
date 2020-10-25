@@ -75,6 +75,10 @@ Personal Exercise in Implementing and Studying Image Algorithms using Python wit
 
 My Personal Training in OpenGL 3.3 and GL Shading Language 330. Follows through the Tutorials of [Learn OpenGL](https://learnopengl.com/Introduction) by Joey de Vries.
 
+## [Iteration Speed Experiment](https://github.com/Jean-LouisH/IterationSpeedExperiment)
+
+Comparison of Completion Times for Iteration on Classes and Data Structures in C++.
+
 ## [EM Raytracing Model](https://github.com/Jean-LouisH/EMRayTracingModel/blob/master/README.md) 
 
 A Python Ray Tracer for Electromagnetic Radiation (3 μm - 300 nm) Interaction with Objects of Differing Characteristics.
