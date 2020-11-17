@@ -6,6 +6,10 @@ You can also find my [GitHub Profile here](https://github.com/Jean-LouisH) and t
 
 # For Use (Applications)
 
+## [Lilliputian](https://github.com/Jean-LouisH/Lilliputian/blob/master/README.md)
+
+A Tiny 2D Game Engine.
+
 ## [ElecCirSim](https://github.com/Jean-LouisH/ElecCirSim/blob/master/README.md)
 
 A Real-Time Analogue and Digital [Circuit Simulator](https://en.wikipedia.org/wiki/Electronic_circuit_simulation). 
@@ -29,10 +33,6 @@ Your Everyday C++ Scientific Calculator
 ![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/Libretti/master/Screenshot.gif)
 
 A Music Synthesis Library, Embeddable in Applications.
-
-## [Lilliputian](https://github.com/Jean-LouisH/Lilliputian/blob/master/README.md)
-
-A Tiny 2D Game Engine Library.
 
 ## [EfficientC](https://github.com/Jean-LouisH/EfficientC/blob/master/README.md)
 
