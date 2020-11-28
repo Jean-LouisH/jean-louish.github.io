@@ -8,7 +8,7 @@ You can also find my [GitHub Profile here](https://github.com/Jean-LouisH) and t
 
 ## [Lilliputian](https://github.com/Jean-LouisH/Lilliputian/blob/master/README.md)
 
-A Tiny 2D Game Engine.
+Lilliputian is a tiny 2D game engine and IDE for introductory game development, prototyping and programming learning. Its sole purpose is to provide the user with the entire development process in a single application and make it as simple as possible.
 
 ## [ElecCirSim](https://github.com/Jean-LouisH/ElecCirSim/blob/master/README.md)
 
@@ -32,7 +32,7 @@ Your Everyday C++ Scientific Calculator
 
 ![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/Libretti/master/Screenshot.gif)
 
-A Music Synthesis Library, Embeddable in Applications.
+Libretti is a music synthesizer library for integration with applications. It can compile audio data from text files that are written with [Libretti's scripting language](https://github.com/Jean-LouisH/Libretti/blob/master/Documentation/Scripting%20Language%20Specification.txt)
 
 ## [EfficientC](https://github.com/Jean-LouisH/EfficientC/blob/master/README.md)
 
@@ -42,9 +42,7 @@ A Set of Low-level Libraries for Developing in C.
 
 ## [Lania](https://github.com/Jean-LouisH/Lania/blob/master/README.md)
 
-![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/Lania/master/Documentation/Images/Screenshot.gif)
-
-My Hobbyist 2D/3D Game Engine.
+My Hobbyist and experimental 2D/3D Game Engine.
 
 ## [Suprannua Engine](https://github.com/Jean-LouisH/SuprannuaEngine/blob/master/README.md)
 
