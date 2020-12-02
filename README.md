@@ -26,6 +26,12 @@ Tracks Cumulative Training Hours for each Listed Skill.
 
 Your Everyday C++ Scientific Calculator 
 
+# For Use (Scripts)
+
+## [Name Generator Japanese Kana Style](https://github.com/Jean-LouisH/Name_Generator_Japanese_Kana_Style)
+
+This is a script to take a syllable count from the user, generate a permutation list of Japanese Kana characters (in Roman letter form) and allow the user to choose how and which will be presented to them.
+
 # For Use (Libraries, Frameworks and Code)
 
 ## [Libretti](https://github.com/Jean-LouisH/Libretti/blob/master/README.md)
