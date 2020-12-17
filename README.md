@@ -1,10 +1,10 @@
- ## Jean-Louis Haywood (jean-louish.github.io)
+## Jean-Louis Haywood (jean-louish.github.io)
 
 This is a quick showcase of my presentable coding projects on GitHub. You can click the project titles in this list to see additional information.
 
 You can also find my [GitHub Profile here](https://github.com/Jean-LouisH) and the rest of my [Project Repositories here](https://github.com/Jean-LouisH?tab=repositories). 
 
-# For Use (Applications)
+# Applications
 
 ## [Lilliputian](https://github.com/Jean-LouisH/Lilliputian/blob/master/README.md)
 
@@ -22,17 +22,13 @@ Drag and Drop Images to View Hex Values, Approximate Colour Names.
 
 Tracks Cumulative Training Hours for each Listed Skill.
 
-## [Calculator](https://github.com/Jean-LouisH/Calculator)
-
-Your Everyday C++ Scientific Calculator 
-
-# For Use (Scripts)
+# Scripts
 
 ## [Name Generator Japanese Kana Style](https://github.com/Jean-LouisH/Name_Generator_Japanese_Kana_Style)
 
 This is a script to take a syllable count from the user, generate a permutation list of Japanese Kana characters (in Roman letter form) and allow the user to choose how and which will be presented to them.
 
-# For Use (Libraries, Frameworks and Code)
+# Libraries, Frameworks and Code
 
 ## [Libretti](https://github.com/Jean-LouisH/Libretti/blob/master/README.md)
 
@@ -44,7 +40,7 @@ Libretti is a music synthesizer library for integration with applications. It ca
 
 A Set of Low-level Libraries for Developing in C.
 
-# For Fun
+# Just For Fun
 
 ## [Lania](https://github.com/Jean-LouisH/Lania/blob/master/README.md)
 
