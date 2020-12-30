@@ -8,7 +8,7 @@ You can also find my [GitHub Profile here](https://github.com/Jean-LouisH) and t
 
 ## [Lilliputian](https://github.com/Jean-LouisH/Lilliputian)
 
-Lilliputian is a tiny 2D game engine and IDE for introductory game development, prototyping and programming learning. Its sole purpose is to provide the user with the entire development process in a single application and make it as simple as possible.
+A tiny 2D game engine and IDE for introductory game development, prototyping and programming learning. Its sole purpose is to provide the user with the entire development process in a single application and make it as simple as possible.
 
 ## [ElecCirSim](https://github.com/Jean-LouisH/ElecCirSim)
 
@@ -77,9 +77,9 @@ Implementing and Studying Image Algorithms using Python with Pillow
 
 OpenGL 3.3 and GL Shading Language 330. Follows through the Tutorials of [Learn OpenGL](https://learnopengl.com/Introduction) by Joey de Vries.
 
-## [Embedded Python in Cpp Prototype] (https://github.com/Jean-LouisH/EmbeddedPythonInCppPrototype)
+## [Embedded Python in Cpp Prototype](https://github.com/Jean-LouisH/EmbeddedPythonInCppPrototype)
 
-Testing and Benchmarking Calling Functions in Real-Time from C to Python and Vice Versa
+Testing and Benchmarking Calling Functions in Real-Time from C++ to Python and Vice Versa
 
 ## [Iteration Speed Experiment](https://github.com/Jean-LouisH/IterationSpeedExperiment)
 
