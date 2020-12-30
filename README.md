@@ -83,7 +83,9 @@ Testing and Benchmarking Calling Functions in Real-Time from C++ to Python and V
 
 ## [Iteration Speed Experiment](https://github.com/Jean-LouisH/IterationSpeedExperiment)
 
-Comparison of Completion Times for Iteration on Classes and Data Structures in C++.
+![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/IterationSpeedExperiment/master/Screenshot.png)
+
+This is a quick comparison of execution speeds when applying the same iterative operation on different data structures representing a collection of 2x1 vectors. This is to investigate the impact of data access methods on execution speed within a compiled C++ release binary, such as in being able to leveraging efficient CPU and memory use.
 
 ## [EM Raytracing Model](https://github.com/Jean-LouisH/EMRayTracingModel) 
 
