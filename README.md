@@ -30,6 +30,8 @@ Tracks Cumulative Training Hours for each Listed Skill.
 
 ## [Kana Name Generator](https://github.com/Jean-LouisH/KanaNameGenerator)
 
+![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/KanaNameGenerator/main/Screenshot.png)
+
 This is a Script to Take a Syllable Count from the User, Generate a Permutation List of Japanese Kana Characters (in Roman Letter Form) and Allow the User to Choose How and Which Will be Presented to Them.
 
 # Just For Fun
