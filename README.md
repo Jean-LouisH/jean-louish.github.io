@@ -28,11 +28,17 @@ Tracks Cumulative Training Hours for each Listed Skill.
 
 # Scripts
 
-## [Kana Name Generator](https://github.com/Jean-LouisH/KanaNameGenerator)
+## [Abstract Name Generator](https://github.com/Jean-LouisH/AbstractNameGenerator)
 
-![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/KanaNameGenerator/main/Screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/AbstractNameGenerator/main/Screenshot.png)
 
-This is a Script to Take a Syllable Count from the User, Generate a Permutation List of Japanese Kana Characters (in Roman Letter Form) and Allow the User to Choose How and Which Will be Presented to Them.
+This is a Script to Take a Syllable Count from the User, Generate a Permutation List of Abstract Syllables and Allow the User to Choose How and Which Will be Presented to Them.
+
+## [Title Case Converter](https://github.com/Jean-LouisH/TitleCaseConverter)
+
+![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/TitleCaseConverter/main/Screenshot.png)
+
+Converts an input string into title case according to the Chicago Manual of Style, with capitalization for non-grammatrical words. This may be useful, for example, in article headlines and content creation platforms.
 
 # Just For Fun
 
