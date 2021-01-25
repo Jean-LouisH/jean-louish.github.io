@@ -1,5 +1,13 @@
 ## Jean-Louis Haywood (jean-louish.github.io)
 
+Improving my software development skills and learning new tools. Working on fun projects too.
+
+- Languages: C, C++, Python, Java, C#
+- APIs: SDL
+- Tools: Visual Studio, Git, Markdown, CMAKE, Bash, Eclipse, Unity
+
+---------------------
+
 This is a quick showcase of my presentable software projects on GitHub. You can click the project titles in this list to see additional information.
 
 You can also find my [GitHub Profile here](https://github.com/Jean-LouisH) and the rest of my [Project Repositories here](https://github.com/Jean-LouisH?tab=repositories). 
