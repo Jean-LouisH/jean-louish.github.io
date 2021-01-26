@@ -4,7 +4,7 @@
 Improving my software development skills and learning new tools. Working on fun projects too.
 
 - Name: Jean-Louis Haywood
-- Education: BA Computer Science, York University
+- Education: BA Hons Computer Science, York University, 2016-present
 - Languages: C, C++, Python, Java, C#
 - APIs: SDL
 - Tools: Visual Studio, Git, Markdown, CMAKE, Bash, Eclipse, Unity
@@ -128,6 +128,6 @@ A List of Notable Reads for Me.
 ---------------------
 # Contact Me
 
-Email: Haywood.JeanLouis@gmail.com
-Linkedin: https://www.linkedin.com/in/jeanlouishaywood/
-GitHub: https://github.com/Jean-LouisH
+- Email: Haywood.JeanLouis@gmail.com
+- Linkedin: https://www.linkedin.com/in/jeanlouishaywood/
+- GitHub: https://github.com/Jean-LouisH
