@@ -1,12 +1,16 @@
-## Jean-Louis Haywood (jean-louish.github.io)
+---------------------
+# About Me
 
 Improving my software development skills and learning new tools. Working on fun projects too.
 
+- Name: Jean-Louis Haywood
+- Education: BA Computer Science, York University
 - Languages: C, C++, Python, Java, C#
 - APIs: SDL
 - Tools: Visual Studio, Git, Markdown, CMAKE, Bash, Eclipse, Unity
 
 ---------------------
+# Software Projects
 
 This is a quick showcase of my presentable software projects on GitHub. You can click the project titles in this list to see additional information.
 
@@ -120,3 +124,10 @@ A Python Model of a Perceptron's Behaviour in Binary Classification via Supervis
 ## [Notable Reads](https://github.com/Jean-LouisH/NotableReads/blob/main/README.md)
 
 A List of Notable Reads for Me.
+
+---------------------
+# Contact Me
+
+Email: Haywood.JeanLouis@gmail.com
+Linkedin: https://www.linkedin.com/in/jeanlouishaywood/
+GitHub: https://github.com/Jean-LouisH
