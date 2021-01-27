@@ -24,19 +24,19 @@ A tiny 2D game engine and IDE for introductory game development, prototyping and
 
 ## [ElecCirSim](https://github.com/Jean-LouisH/ElecCirSim)
 
-A Real-Time Analogue and Digital [Circuit Simulator](https://en.wikipedia.org/wiki/Electronic_circuit_simulation). 
+A real-time analogue and digital [circuit simulator](https://en.wikipedia.org/wiki/Electronic_circuit_simulation). 
 
 ## [Diorama](https://github.com/Jean-LouisH/Diorama)
 
-Drag and Drop 3D Model Viewer for GLTF Scenes.
+Drag and drop 3D model viewer for GLTF scenes.
 
 ## [Image Colour Picker](https://github.com/Jean-LouisH/ImageColourPicker)
 
-Drag and Drop Images to View Hex Values, Approximate Colour Names.
+Drag and drop images to view hex values, approximate colour names.
 
 ## [Training Hours Tracker](https://github.com/Jean-LouisH/TrainingHoursTracker)
 
-Tracks Cumulative Training Hours for each Listed Skill.
+Tracks cumulative training hours for each listed skill.
 
 # Scripts
 
@@ -44,7 +44,7 @@ Tracks Cumulative Training Hours for each Listed Skill.
 
 ![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/AbstractNameGenerator/main/Screenshot.png)
 
-This is a Script to Take a Syllable Count from the User, Generate a Permutation List of Abstract Syllables and Allow the User to Choose How and Which Will be Presented to Them.
+This is a script to take a syllable count from the user, generate a permutation list of abstract syllables and allow the user to choose how and which will be presented to them. 
 
 ## [Title Case Converter](https://github.com/Jean-LouisH/TitleCaseConverter)
 
@@ -54,13 +54,13 @@ Converts an input string into title case according to the Chicago Manual of Styl
 
 # Just For Fun
 
-These are Developed for My Use Only. Most of These May be Useless or Unrealistic in Scope or Utility, but Might Have Some Aesthetic, Code or Designs of Interest to Others.
+These are developed for my use only. Most of these may be useless or unrealistic in scope or utility, but might have some aesthetic, code or designs of interest to others.
 
 ## [Lania](https://github.com/Jean-LouisH/Lania)
 
 ![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/Lania/master/Documentation/Images/Screenshot.gif)
 
-My Hobbyist and Experimental 2D/3D Game Engine.
+My hobbyist and experimental 2D/3D game engine.
 
 ## [Libretti](https://github.com/Jean-LouisH/Libretti)
 
@@ -72,36 +72,36 @@ Libretti is a music synthesizer library for integration with applications. It ca
 
 ![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/SuprannuaEngine/master/Documentation/Images/Screenshot.gif)
 
-A Superannuated, 2D Platformer Game Engine Codebase. My First Project Ever. 
-You can [Download all the Games and Tests I've Made with Suprannua Engine Here](https://github.com/Jean-LouisH/SuprannuaEngine/releases/download/v0.14.0-alpha/Suprannua.0.14.0.Games.Tests.zip). All Movement is Done through WASD Keys where not Specified. 
+A superannuated, 2D platformer game engine codebase. My first project ever.
+You can [download all the games and tests I've made with Suprannua Engine here.](https://github.com/Jean-LouisH/SuprannuaEngine/releases/download/v0.14.0-alpha/Suprannua.0.14.0.Games.Tests.zip). All movement is done through WASD keys where not specified.
 
 ## [Imperium](https://github.com/Jean-LouisH/Imperium)
 
-My Hobbyist General Purpose Imperative Programming Language with a Bias towards Compiled, High-Performance Applications.
+My hobbyist general purpose imperative programming language with a bias towards compiled, high-performance applications.
 
 # For My Learning
 
-These are Developed as I Progress with Learning Materials and Tutorials or by Random Prototypes to Test Concepts Before Implementing Them in Other Projects.
+These are developed as I progress with learning materials and tutorials or by prototypesto test concepts before implementing them in other projects.
 
 ## [LeetCode](https://github.com/Jean-LouisH/LeetCode)
 
 ## [Algorithms, Data Structures](https://github.com/Jean-LouisH/Algorithms-DataStructures)
 
-Implementing and Studying Algorithms Taught in the "CLRS" Introduction to Algorithms Book, using Python. 
+Implementing and studying algorithms taught in the "CLRS" Introduction to Algorithms book, using Python.
 
 ## [Image Processing Algorithms](https://github.com/Jean-LouisH/ImageProcessingAlgorithms)
 
-Implementing and Studying Image Algorithms using Python with Pillow
+Implementing and studying image algorithms using Python with Pillow.
 
 ## [Learn OpenGL](https://github.com/Jean-LouisH/LearnOpenGL)
 
 ![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/LearnOpenGL/master/Images/Mixed_Texture_Rectangle.png)
 
-OpenGL 3.3 and GL Shading Language 330. Follows through the Tutorials of [Learn OpenGL](https://learnopengl.com/Introduction) by Joey de Vries.
+OpenGL 3.3 and GL shading language 330. Follows through the tutorials of [Learn OpenGL](https://learnopengl.com/Introduction) by Joey de Vries.
 
 ## [Embedded Python in Cpp Prototype](https://github.com/Jean-LouisH/EmbeddedPythonInCppPrototype)
 
-Testing and Benchmarking Calling Functions in Real-Time from C++ to Python and Vice Versa
+Testing and benchmarking calling functions in real-time from C++ to Python and vice versa
 
 ## [Iteration Speed Experiment](https://github.com/Jean-LouisH/IterationSpeedExperiment)
 
@@ -111,19 +111,19 @@ This is a quick comparison of execution speeds when applying the same iterative 
 
 ## [EM Raytracing Model](https://github.com/Jean-LouisH/EMRayTracingModel) 
 
-A Python Ray Tracer for Electromagnetic Radiation (3 μm - 300 nm) Interaction with Objects of Differing Characteristics.
+A Python ray tracer for electromagnetic radiation (3 μm - 300 nm) interaction with objects of differing characteristics.
 
 ## [Memristor ReRAM Model](https://github.com/Jean-LouisH/MemristorReRAMModel)
 
-A Python Simulation Model of a Memristor used as a Single Bit Storage in ReRAM.
+A Python simulation model of a memristor used as a single bit storage in ReRAM.
 
 ## [Perceptron Model](https://github.com/Jean-LouisH/PerceptronModel)
 
-A Python Model of a Perceptron's Behaviour in Binary Classification via Supervised Learning.
+A Python model of a perceptron's behaviour in binary classification via supervised learning.
 
 ## [Notable Reads](https://github.com/Jean-LouisH/NotableReads/blob/main/README.md)
 
-A List of Notable Reads for Me.
+A list of notable reads for me.
 
 ---------------------
 # Contact Me
