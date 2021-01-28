@@ -22,6 +22,14 @@ You can also find my [GitHub Profile here](https://github.com/Jean-LouisH) and t
 
 A tiny 2D game engine and IDE for introductory game development, prototyping and programming learning. Its sole purpose is to provide the user with the entire development process in a single application and make it as simple as possible.
 
+## [Image Colour Picker](https://github.com/Jean-LouisH/ImageColourPicker)
+
+Drag and drop images to view hex values, approximate colour names.
+
+## [Hours Tracker](https://github.com/Jean-LouisH/HoursTracker)
+
+Tracks cumulative hours. This could be used for training hours tracking.
+
 ## [ElecCirSim](https://github.com/Jean-LouisH/ElecCirSim)
 
 A real-time analogue and digital [circuit simulator](https://en.wikipedia.org/wiki/Electronic_circuit_simulation). 
@@ -29,14 +37,6 @@ A real-time analogue and digital [circuit simulator](https://en.wikipedia.org/wi
 ## [Diorama](https://github.com/Jean-LouisH/Diorama)
 
 Drag and drop 3D model viewer for GLTF scenes.
-
-## [Image Colour Picker](https://github.com/Jean-LouisH/ImageColourPicker)
-
-Drag and drop images to view hex values, approximate colour names.
-
-## [Training Hours Tracker](https://github.com/Jean-LouisH/TrainingHoursTracker)
-
-Tracks cumulative training hours for each listed skill.
 
 # Scripts
 
