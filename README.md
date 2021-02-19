@@ -6,7 +6,6 @@ Improving my software development skills and learning new tools. Working on fun 
 - Name: Jean-Louis Haywood
 - Education: BA Hons Computer Science, York University, 2016-present
 - Languages: C, C++, Python, Java, C#
-- APIs: SDL
 - Tools: Visual Studio, Git, Markdown, CMAKE, Bash, Eclipse, Unity
 
 ---------------------
