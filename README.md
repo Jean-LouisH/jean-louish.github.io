@@ -22,21 +22,9 @@ You can also find my [GitHub Profile here](https://github.com/Jean-LouisH) and t
 
 A tiny 2D game engine and IDE for introductory game development, prototyping and programming learning. Its sole purpose is to provide the user with the entire development process in a single application and make it as simple as possible.
 
-## [Image Colour Picker](https://github.com/Jean-LouisH/ImageColourPicker)
-
-Drag and drop images to view hex values, approximate colour names.
-
-## [Hours Tracker](https://github.com/Jean-LouisH/HoursTracker)
-
-Tracks cumulative hours. This could be used for training hours tracking.
-
 ## [ElecCirSim](https://github.com/Jean-LouisH/ElecCirSim)
 
 A real-time analogue and digital [circuit simulator](https://en.wikipedia.org/wiki/Electronic_circuit_simulation). 
-
-## [Diorama](https://github.com/Jean-LouisH/Diorama)
-
-Drag and drop 3D model viewer for GLTF scenes.
 
 # Scripts
 
@@ -83,15 +71,9 @@ My hobbyist general purpose imperative programming language with a bias towards 
 
 These are developed as I progress with learning materials and tutorials or by prototypesto test concepts before implementing them in other projects.
 
-## [LeetCode](https://github.com/Jean-LouisH/LeetCode)
-
 ## [Algorithms, Data Structures](https://github.com/Jean-LouisH/Algorithms-DataStructures)
 
 Implementing and studying algorithms taught in the "CLRS" Introduction to Algorithms book, using Python.
-
-## [Image Processing Algorithms](https://github.com/Jean-LouisH/ImageProcessingAlgorithms)
-
-Implementing and studying image algorithms using Python with Pillow.
 
 ## [Learn OpenGL](https://github.com/Jean-LouisH/LearnOpenGL)
 
@@ -108,18 +90,6 @@ Testing and benchmarking calling functions in real-time from C++ to Python and v
 ![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/IterationSpeedExperiment/master/Screenshot.png)
 
 This is a quick comparison of execution speeds when applying the same iterative operation on different data structures representing a collection of 2x1 vectors. This is to investigate the impact of data access methods on execution speed within a compiled C++ release binary, such as in being able to leveraging efficient CPU and memory use.
-
-## [EM Raytracing Model](https://github.com/Jean-LouisH/EMRayTracingModel) 
-
-A Python ray tracer for electromagnetic radiation (3 μm - 300 nm) interaction with objects of differing characteristics.
-
-## [Memristor ReRAM Model](https://github.com/Jean-LouisH/MemristorReRAMModel)
-
-A Python simulation model of a memristor used as a single bit storage in ReRAM.
-
-## [Perceptron Model](https://github.com/Jean-LouisH/PerceptronModel)
-
-A Python model of a perceptron's behaviour in binary classification via supervised learning.
 
 ## [Notable Reads](https://github.com/Jean-LouisH/NotableReads/blob/main/README.md)
 
