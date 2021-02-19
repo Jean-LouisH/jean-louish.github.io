@@ -70,10 +70,6 @@ My hobbyist general purpose imperative programming language with a bias towards 
 
 These are developed as I progress with learning materials and tutorials or by prototypesto test concepts before implementing them in other projects.
 
-## [Algorithms, Data Structures](https://github.com/Jean-LouisH/Algorithms-DataStructures)
-
-Implementing and studying algorithms taught in the "CLRS" Introduction to Algorithms book, using Python.
-
 ## [Learn OpenGL](https://github.com/Jean-LouisH/LearnOpenGL)
 
 ![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/LearnOpenGL/master/Images/Mixed_Texture_Rectangle.png)
@@ -83,6 +79,8 @@ OpenGL 3.3 and GL shading language 330. Follows through the tutorials of [Learn 
 ## [Embedded Python in Cpp Prototype](https://github.com/Jean-LouisH/EmbeddedPythonInCppPrototype)
 
 Testing and benchmarking calling functions in real-time from C++ to Python and vice versa
+
+![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/EmbeddedPythonInCppPrototype/master/Screenshot.png)
 
 ## [Iteration Speed Experiment](https://github.com/Jean-LouisH/IterationSpeedExperiment)
 
