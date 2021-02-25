@@ -19,7 +19,7 @@ You can also find my [GitHub Profile here](https://github.com/Jean-LouisH) and t
 
 ## [Lilliputian](https://github.com/Jean-LouisH/Lilliputian)
 
-![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/Lilliputian/main/Screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/Lilliputian/master/Screenshot.png)
 
 A tiny 2D game engine and IDE for introductory game development, prototyping and programming learning. Its sole purpose is to provide the user with the entire development process in a single application and make it as simple as possible.
 
