@@ -33,7 +33,13 @@ A real-time analogue and digital [circuit simulator](https://en.wikipedia.org/wi
 
 ![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/AbstractNameGenerator/main/Screenshot.png)
 
-This is a script to take a syllable count from the user, generate a permutation list of abstract syllables and allow the user to choose how and which will be presented to them. 
+This is a script to take a syllable count from the user, generate a permutation list of abstract syllables and allow the user to choose how and which will be presented to them.
+
+## [Source Licenser](https://github.com/Jean-LouisH/SourceLicenser) 
+
+![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/SourceLicenser/main/Screenshot.png)
+
+Applies Licences to the Top of Non-ThirdParty Source Files According to the Repository LICENSE File.
 
 ## [Title Case Converter](https://github.com/Jean-LouisH/TitleCaseConverter)
 
