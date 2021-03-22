@@ -39,7 +39,7 @@ This is a script to take a syllable count from the user, generate a permutation 
 
 ![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/SourceLicenser/main/Screenshot.png)
 
-Applies Licences to the Top of Non-ThirdParty Source Files According to the Repository LICENSE File.
+Applies licenses to the top of all source files in a given directory according to a given LICENSE file.
 
 ## [Title Case Converter](https://github.com/Jean-LouisH/TitleCaseConverter)
 
