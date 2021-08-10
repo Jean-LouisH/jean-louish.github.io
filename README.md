@@ -15,6 +15,7 @@ You can also find my [GitHub Profile here](https://github.com/Jean-LouisH) and t
 # Applications
 
 ## [Lilliputian](https://github.com/Jean-LouisH/Lilliputian)
+Languages: C++, Python
 
 ![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/Lilliputian/master/Screenshot.png)
 
@@ -23,18 +24,21 @@ A tiny engine for real-time, interactive applications for desktop using Python s
 # Scripts
 
 ## [Abstract Name Generator](https://github.com/Jean-LouisH/AbstractNameGenerator)
+Languages: Python
 
 ![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/AbstractNameGenerator/main/Screenshot.png)
 
 This is a script to take a syllable count from the user, generate a permutation list of abstract syllables and allow the user to choose how and which will be presented to them.
 
 ## [Source Licenser](https://github.com/Jean-LouisH/SourceLicenser) 
+Languages: Python
 
 ![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/SourceLicenser/main/Screenshot.png)
 
 Applies licenses to the top of all source files in a given directory according to a given LICENSE file.
 
 ## [Title Case Converter](https://github.com/Jean-LouisH/TitleCaseConverter)
+Languages: Python
 
 ![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/TitleCaseConverter/main/Screenshot.png)
 
@@ -45,12 +49,14 @@ Converts an input string into title case according to the Chicago Manual of Styl
 These are developed for my use only. Most of these may be useless or unrealistic in scope or utility, but might have some aesthetic, code or designs of interest to others.
 
 ## [Libretti](https://github.com/Jean-LouisH/Libretti)
+Languages: C
 
 ![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/Libretti/master/Screenshot.gif)
 
 Libretti is a music synthesizer library for integration with applications. It can compile audio data from text files that are written with [Libretti's scripting language](https://github.com/Jean-LouisH/Libretti/blob/master/Documentation/Scripting%20Language%20Specification.txt)
 
 ## [Suprannua Engine](https://github.com/Jean-LouisH/SuprannuaEngine)
+Languages: C
 
 ![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/SuprannuaEngine/master/Documentation/Images/Screenshot.gif)
 
