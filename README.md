@@ -8,7 +8,7 @@
 ---------------------
 # Software Projects
 
-This is a quick showcase of my presentable software projects on GitHub. You can click the project titles in this list to see additional information.
+This is a quick showcase of my presentable software projects on GitHub. You can click on each project title to see its repository page.
 
 You can also find my [GitHub Profile here](https://github.com/Jean-LouisH) and the rest of my [Project Repositories here](https://github.com/Jean-LouisH?tab=repositories). 
 
