@@ -1,8 +1,6 @@
 ---------------------
 # About Me
 
-Improving my software development skills and learning new tools. Working on fun projects too.
-
 - Name: Jean-Louis Haywood
 - Education: BA Hons Computer Science, York University, 2016-2021
 - Languages: C, C++, Python, Java, C#
