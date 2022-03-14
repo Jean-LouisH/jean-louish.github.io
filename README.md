@@ -2,7 +2,7 @@
 # About Me
 
 - Name: Jean-Louis Haywood
-- Education: BA Hons Computer Science, York University, 2016-2021
+- Education: Bachelors in Computer Science, York University (2022)
 - Languages: C, C++, Python, Java, C#
 
 ---------------------
@@ -14,12 +14,21 @@ You can also find my [GitHub Profile here](https://github.com/Jean-LouisH) and t
 
 # Applications
 
-## [Lilliputian](https://github.com/Jean-LouisH/Lilliputian)
+## [Omnia](https://github.com/Jean-LouisH/Omnia)
 Languages: C++, Python
 
-![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/Lilliputian/master/Screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/Omnia/master/debug.png)
 
-A tiny engine for real-time, interactive applications for desktop using Python scripting.
+A game engine I'm developing for fun, study and technical demonstrations. It doubles as a real-time software framework for interactive applications. It is designed to be general purpose, data-driven, and lightweight.
+
+# Libraries & Add-Ons
+
+## [Libretti](https://github.com/Jean-LouisH/Libretti)
+Languages: C
+
+![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/Libretti/master/Screenshot.gif)
+
+Libretti is a music synthesizer library for integration with applications. It can compile audio data from text files that are written with [Libretti's scripting language](https://github.com/Jean-LouisH/Libretti/blob/master/Documentation/Scripting%20Language%20Specification.txt)
 
 # Scripts
 
@@ -44,16 +53,7 @@ Languages: Python
 
 Converts an input string into title case according to the Chicago Manual of Style, with capitalization for non-grammatrical words. This may be useful, for example, in article headlines and content creation platforms.
 
-# Just For Fun
-
-These are developed for my use only. Most of these may be useless or unrealistic in scope or utility, but might have some aesthetic, code or designs of interest to others.
-
-## [Libretti](https://github.com/Jean-LouisH/Libretti)
-Languages: C
-
-![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/Libretti/master/Screenshot.gif)
-
-Libretti is a music synthesizer library for integration with applications. It can compile audio data from text files that are written with [Libretti's scripting language](https://github.com/Jean-LouisH/Libretti/blob/master/Documentation/Scripting%20Language%20Specification.txt)
+# Archived
 
 ## [Suprannua Engine](https://github.com/Jean-LouisH/SuprannuaEngine)
 Languages: C
@@ -65,13 +65,7 @@ You can [download all the games and tests I've made with Suprannua Engine here.]
 
 # Just For My Learning
 
-These are developed as I progress with learning materials and tutorials or by prototypesto test concepts before implementing them in other projects.
-
-## [Learn OpenGL](https://github.com/Jean-LouisH/LearnOpenGL)
-
-![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/LearnOpenGL/master/Images/Mixed_Texture_Rectangle.png)
-
-OpenGL 3.3 and GL shading language 330. Follows through the tutorials of [Learn OpenGL](https://learnopengl.com/Introduction) by Joey de Vries.
+Prototypes to test concepts before implementing them in other projects.
 
 ## [Iteration Speed Experiment](https://github.com/Jean-LouisH/IterationSpeedExperiment)
 
