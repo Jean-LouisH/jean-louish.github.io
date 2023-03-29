@@ -17,7 +17,7 @@ You can also find my [GitHub Profile here](https://github.com/Jean-LouisH) and t
 ## [Omnia](https://github.com/Jean-LouisH/Omnia)
 Languages: C++, Python
 
-![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/Omnia/master/docs/images/debug.png)
+![Screenshot](https://raw.githubusercontent.com/Jean-LouisH/Omnia/master/docs/images/cover.png)
 
  A game engine I'm developing for fun, study and technical demonstrations. It doubles as an interactive software framework. It is designed to be customizable, general purpose, data-driven, and lightweight.
 
